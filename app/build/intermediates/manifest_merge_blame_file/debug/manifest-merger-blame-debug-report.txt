@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.systemdebugger.googlesansroundedoverlay"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- Framework overlay -->
+12    <overlay
+12-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-10:32
+13        android:isStatic="true"
+13-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-32
+14        android:priority="1"
+14-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:10:9-29
+15        android:targetPackage="android" />
+15-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
+16
+17    <!-- SystemUI overlay -->
+18    <overlay
+18-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-10:32
+19        android:isStatic="true"
+19-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-32
+20        android:priority="1"
+20-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:10:9-29
+21        android:targetPackage="com.android.systemui" />
+21-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
+22
+23    <application
+23-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:18:5-44
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:hasCode="false" />
+26-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:18:18-41
+27
+28</manifest>

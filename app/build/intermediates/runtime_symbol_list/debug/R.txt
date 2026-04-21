@@ -1,0 +1,4 @@
+int font googlesansrounded 0x7f010000
+int font roboto_bold 0x7f010001
+int font roboto_medium 0x7f010002
+int font roboto_regular 0x7f010003

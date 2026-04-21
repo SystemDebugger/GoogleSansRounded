@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.systemdebugger.googlesansroundedoverlay"
     compileSdk 34
 
     defaultConfig {
