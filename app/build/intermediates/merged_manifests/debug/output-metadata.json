@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.systemdebugger.googlesansroundedoverlay",
+  "applicationId": "com.android.theme.font.GoogleSansRounded",
   "variantName": "debug",
   "elements": [
     {

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "com.systemdebugger.googlesansroundedoverlay"
+    namespace "com.android.theme.font.GoogleSansRounded"
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.systemdebugger.googlesansroundedoverlay"
+        applicationId "com.android.theme.font.GoogleSansRounded"
         minSdk 29
         targetSdk 34
         versionCode 1

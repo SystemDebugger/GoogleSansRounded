@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.systemdebugger.googlesansroundedoverlay.app-merged_res-4:/font_roboto_regular.ttf.flat",
-        "source": "com.systemdebugger.googlesansroundedoverlay.app-main-6:/font/roboto_regular.ttf"
+        "merged": "com.android.theme.font.GoogleSansRounded.app-merged_res-4:/font_roboto_regular.ttf.flat",
+        "source": "com.android.theme.font.GoogleSansRounded.app-main-6:/font/roboto_regular.ttf"
     },
     {
-        "merged": "com.systemdebugger.googlesansroundedoverlay.app-merged_res-4:/font_googlesansrounded.xml.flat",
-        "source": "com.systemdebugger.googlesansroundedoverlay.app-main-6:/font/googlesansrounded.xml"
+        "merged": "com.android.theme.font.GoogleSansRounded.app-merged_res-4:/font_roboto_bold.ttf.flat",
+        "source": "com.android.theme.font.GoogleSansRounded.app-main-6:/font/roboto_bold.ttf"
     },
     {
-        "merged": "com.systemdebugger.googlesansroundedoverlay.app-merged_res-4:/font_roboto_medium.ttf.flat",
-        "source": "com.systemdebugger.googlesansroundedoverlay.app-main-6:/font/roboto_medium.ttf"
+        "merged": "com.android.theme.font.GoogleSansRounded.app-merged_res-4:/font_roboto_medium.ttf.flat",
+        "source": "com.android.theme.font.GoogleSansRounded.app-main-6:/font/roboto_medium.ttf"
     },
     {
-        "merged": "com.systemdebugger.googlesansroundedoverlay.app-merged_res-4:/font_roboto_bold.ttf.flat",
-        "source": "com.systemdebugger.googlesansroundedoverlay.app-main-6:/font/roboto_bold.ttf"
+        "merged": "com.android.theme.font.GoogleSansRounded.app-merged_res-4:/font_googlesansrounded.xml.flat",
+        "source": "com.android.theme.font.GoogleSansRounded.app-main-6:/font/googlesansrounded.xml"
     }
 ]

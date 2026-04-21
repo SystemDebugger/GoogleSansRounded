@@ -1,7 +1,7 @@
-com.systemdebugger.googlesansroundedoverlay.app-pngs-0 /workspaces/GoogleSansRounded/app/build/generated/res/pngs/debug
-com.systemdebugger.googlesansroundedoverlay.app-resValues-1 /workspaces/GoogleSansRounded/app/build/generated/res/resValues/debug
-com.systemdebugger.googlesansroundedoverlay.app-packageDebugResources-2 /workspaces/GoogleSansRounded/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.systemdebugger.googlesansroundedoverlay.app-packageDebugResources-3 /workspaces/GoogleSansRounded/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.systemdebugger.googlesansroundedoverlay.app-merged_res-4 /workspaces/GoogleSansRounded/app/build/intermediates/merged_res/debug
-com.systemdebugger.googlesansroundedoverlay.app-debug-5 /workspaces/GoogleSansRounded/app/src/debug/res
-com.systemdebugger.googlesansroundedoverlay.app-main-6 /workspaces/GoogleSansRounded/app/src/main/res
+com.android.theme.font.GoogleSansRounded.app-pngs-0 /workspaces/GoogleSansRounded/app/build/generated/res/pngs/debug
+com.android.theme.font.GoogleSansRounded.app-resValues-1 /workspaces/GoogleSansRounded/app/build/generated/res/resValues/debug
+com.android.theme.font.GoogleSansRounded.app-packageDebugResources-2 /workspaces/GoogleSansRounded/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.android.theme.font.GoogleSansRounded.app-packageDebugResources-3 /workspaces/GoogleSansRounded/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.android.theme.font.GoogleSansRounded.app-merged_res-4 /workspaces/GoogleSansRounded/app/build/intermediates/merged_res/debug
+com.android.theme.font.GoogleSansRounded.app-debug-5 /workspaces/GoogleSansRounded/app/src/debug/res
+com.android.theme.font.GoogleSansRounded.app-main-6 /workspaces/GoogleSansRounded/app/src/main/res

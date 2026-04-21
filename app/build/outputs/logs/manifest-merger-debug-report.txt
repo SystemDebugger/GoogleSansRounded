@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
+ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
 	package
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:2:5-58
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:2:5-55
 		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
 	android:versionName
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:4:5-30
@@ -16,20 +16,24 @@ INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:3:5-28
 		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
 overlay
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-10:32
+ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-11:63
 	android:priority
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:10:9-29
-	android:isStatic
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-32
+	android:category
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:11:9-60
+	android:targetName
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-37
 	android:targetPackage
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
 application
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:5-44
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:5-44
+ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:14:5-16:47
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:14:5-16:47
 	android:extractNativeLibs
 		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:16:9-44
 	android:hasCode
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:18-41
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:15:9-32
 uses-sdk
 INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml

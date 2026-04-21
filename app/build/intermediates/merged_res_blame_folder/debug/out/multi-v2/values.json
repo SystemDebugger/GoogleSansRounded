@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.theme.font.GoogleSansRounded.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspaces/GoogleSansRounded/app/src/main/res/values/overlays.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "77",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

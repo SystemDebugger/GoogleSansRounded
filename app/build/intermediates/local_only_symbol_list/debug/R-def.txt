@@ -4,3 +4,4 @@ font googlesansrounded
 font roboto_bold
 font roboto_medium
 font roboto_regular
+string overlay_category
