@@ -1,0 +1,19 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.systemdebugger.googlesansroundedoverlay"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <!-- Framework overlay -->
+    <overlay
+        android:targetPackage="android"
+        android:isStatic="true"
+        android:priority="1" />
+
+    <!-- SystemUI overlay -->
+    <overlay
+        android:targetPackage="com.android.systemui"
+        android:isStatic="true"
+        android:priority="1" />
+
+    <application android:hasCode="false" />
+</manifest>
