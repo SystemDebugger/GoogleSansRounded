@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-19:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-19:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-19:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-19:12
+ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-14:12
 	package
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:2:5-58
 		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
@@ -24,12 +24,12 @@ ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-10
 	android:targetPackage
 		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
 application
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:18:5-44
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:18:5-44
+ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:5-44
+INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:5-44
 	android:extractNativeLibs
 		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
 	android:hasCode
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:18:18-41
+		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:13:18-41
 uses-sdk
 INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml

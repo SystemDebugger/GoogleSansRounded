@@ -9,11 +9,6 @@
         android:isStatic="true"
         android:priority="1" />
 
-    <!-- SystemUI overlay -->
-    <overlay
-        android:targetPackage="com.android.systemui"
-        android:isStatic="true"
-        android:priority="1" />
 
     <application android:hasCode="false" />
 </manifest>

@@ -14,12 +14,6 @@
         android:priority="1"
         android:targetPackage="android" />
 
-    <!-- SystemUI overlay -->
-    <overlay
-        android:isStatic="true"
-        android:priority="1"
-        android:targetPackage="com.android.systemui" />
-
     <application
         android:debuggable="true"
         android:extractNativeLibs="false"
