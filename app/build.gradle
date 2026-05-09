@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "com.android.theme.font.GoogleSansRounded"
+    namespace "com.android.theme.font.Exo2Regular"
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.android.theme.font.GoogleSansRounded"
+        applicationId "com.android.theme.font.Exo2Regular"
         minSdk 29
         targetSdk 34
         versionCode 1

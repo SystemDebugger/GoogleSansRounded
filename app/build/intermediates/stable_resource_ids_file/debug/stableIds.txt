@@ -1,0 +1,5 @@
+com.android.theme.font.Exo2Regular:string/overlay_category = 0x7f020000
+com.android.theme.font.Exo2Regular:font/roboto_regular = 0x7f010003
+com.android.theme.font.Exo2Regular:font/roboto_bold = 0x7f010001
+com.android.theme.font.Exo2Regular:font/roboto_medium = 0x7f010002
+com.android.theme.font.Exo2Regular:font/googlesansrounded = 0x7f010000

@@ -1,44 +1,44 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:1-17:12
+ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:1:1-17:12
 	package
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:2:5-55
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:2:5-49
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 overlay
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-11:63
+ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:7:5-11:63
 	android:priority
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:10:9-29
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:10:9-29
 	android:category
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:11:9-60
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:11:9-60
 	android:targetName
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-37
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:9:9-37
 	android:targetPackage
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:8:9-40
 application
-ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:14:5-16:47
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:14:5-16:47
+ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:14:5-16:47
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:14:5-16:47
 	android:extractNativeLibs
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 	android:label
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:16:9-44
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:16:9-44
 	android:hasCode
-		ADDED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:15:9-32
+		ADDED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:15:9-32
 uses-sdk
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
-INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml

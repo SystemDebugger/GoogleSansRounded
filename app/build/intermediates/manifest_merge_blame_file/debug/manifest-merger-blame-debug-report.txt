@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.android.theme.font.GoogleSansRounded"
+3    package="com.android.theme.font.Exo2Regular"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -10,23 +10,24 @@
 10
 11    <!-- Framework overlay -->
 12    <overlay
-12-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:7:5-11:63
+12-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:7:5-11:63
 13        android:category="android.theme.customization.font"
-13-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:11:9-60
+13-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:11:9-60
 14        android:priority="1"
-14-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:10:9-29
+14-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:10:9-29
 15        android:targetName="android"
-15-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:9:9-37
+15-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:9:9-37
 16        android:targetPackage="android" />
-16-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:8:9-40
+16-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:8:9-40
 17
 18    <application
-18-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:14:5-16:47
+18-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:14:5-16:47
 19        android:debuggable="true"
 20        android:extractNativeLibs="false"
 21        android:hasCode="false"
-21-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:15:9-32
-22        android:label="Google Sans Rounded" />
-22-->/workspaces/GoogleSansRounded/app/src/main/AndroidManifest.xml:16:9-44
-23
-24</manifest>
+21-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:15:9-32
+22        android:label="Google Sans Rounded"
+22-->C:\Users\syste\source\repos\CSharpL2\GoogleSansRounded\app\src\main\AndroidManifest.xml:16:9-44
+23        android:testOnly="true" />
+24
+25</manifest>

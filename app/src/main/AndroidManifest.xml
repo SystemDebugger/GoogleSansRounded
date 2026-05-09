@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.theme.font.GoogleSansRounded"
+    package="com.android.theme.font.Exo2Regular"
     android:versionCode="1"
     android:versionName="1.0">
 

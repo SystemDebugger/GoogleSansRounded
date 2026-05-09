@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.android.theme.font.GoogleSansRounded.app-mergeDebugResources-2:/values/values.xml",
+            "outputFile": "com.android.theme.font.Exo2Regular.app-mergeDebugResources-2:/values/values.xml",
             "map": [
                 {
-                    "source": "/workspaces/GoogleSansRounded/app/src/main/res/values/overlays.xml",
+                    "source": "C:\\Users\\syste\\source\\repos\\CSharpL2\\GoogleSansRounded\\app\\src\\main\\res\\values\\overlays.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "16",
+                        "startOffsets": "17",
                         "endColumns": "77",
-                        "endOffsets": "89"
+                        "endOffsets": "90"
                     },
                     "to": {
                         "startLines": "2",

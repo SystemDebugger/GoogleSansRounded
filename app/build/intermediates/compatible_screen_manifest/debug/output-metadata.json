@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.android.theme.font.GoogleSansRounded",
+  "applicationId": "com.android.theme.font.Exo2Regular",
   "variantName": "debug",
   "elements": []
 }
